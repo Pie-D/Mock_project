@@ -1,0 +1,38 @@
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\Common\bin\Debug\net8.0\Common.deps.json
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\Common\bin\Debug\net8.0\Common.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\Common\bin\Debug\net8.0\Common.pdb
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\Common\obj\Debug\net8.0\Common.sourcelink.json
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\Common\obj\Debug\net8.0\Common.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\Common\obj\Debug\net8.0\refint\Common.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\Common\obj\Debug\net8.0\Common.pdb
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\Common\obj\Debug\net8.0\ref\Common.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\Common\obj\Debug\net8.0\Common.csproj.AssemblyReference.cache
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\Common\bin\Debug\net8.0\Common.deps.json
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\Common\bin\Debug\net8.0\Common.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\Common\bin\Debug\net8.0\Common.pdb
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\Common\obj\Debug\net8.0\Common.csproj.AssemblyReference.cache
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\Common\obj\Debug\net8.0\Common.sourcelink.json
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\Common\obj\Debug\net8.0\Common.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\Common\obj\Debug\net8.0\refint\Common.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\Common\obj\Debug\net8.0\Common.pdb
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\Common\obj\Debug\net8.0\ref\Common.dll
+D:\Final_Team2_FPT-Long\NLayerApi\Common\bin\Debug\net8.0\Common.deps.json
+D:\Final_Team2_FPT-Long\NLayerApi\Common\bin\Debug\net8.0\Common.dll
+D:\Final_Team2_FPT-Long\NLayerApi\Common\bin\Debug\net8.0\Common.pdb
+D:\Final_Team2_FPT-Long\NLayerApi\Common\obj\Debug\net8.0\Common.csproj.AssemblyReference.cache
+D:\Final_Team2_FPT-Long\NLayerApi\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Final_Team2_FPT-Long\NLayerApi\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+D:\Final_Team2_FPT-Long\NLayerApi\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+D:\Final_Team2_FPT-Long\NLayerApi\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+D:\Final_Team2_FPT-Long\NLayerApi\Common\obj\Debug\net8.0\Common.dll
+D:\Final_Team2_FPT-Long\NLayerApi\Common\obj\Debug\net8.0\refint\Common.dll
+D:\Final_Team2_FPT-Long\NLayerApi\Common\obj\Debug\net8.0\Common.pdb
+D:\Final_Team2_FPT-Long\NLayerApi\Common\obj\Debug\net8.0\ref\Common.dll

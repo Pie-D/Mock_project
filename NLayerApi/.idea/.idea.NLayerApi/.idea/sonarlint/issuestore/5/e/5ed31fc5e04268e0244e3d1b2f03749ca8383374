@@ -1,0 +1,10 @@
+
+csharpsquid:S1192"]Define a constant instead of using this literal 'FK_Departments_Addresses_AddressId' 4 times.(ˆâ¡Ùüÿÿÿÿ
+dcsharpsquid:S1192"GDefine a constant instead of using this literal 'Departments' 12 times.(Üç—˜
+‡csharpsquid:S1192"jDefine a constant instead of using this literal 'FK_Departments_CompanyContacts_CompanyContactId' 4 times.(êÕ¥¬
+kcsharpsquid:S1192"NDefine a constant instead of using this literal 'SupportingMaterials' 4 times.(£„‘á
+icsharpsquid:S1192"LDefine a constant instead of using this literal 'CompanyContactId' 11 times.(è§ÏÂ
+]csharpsquid:S1192"@Define a constant instead of using this literal 'Teams' 6 times.(™Û¯°
+jcsharpsquid:S1192'"HDefine a constant instead of using this literal 'nvarchar(300)' 5 times.(ÊÔàùşÿÿÿÿ
+ecsharpsquid:S1192,"HDefine a constant instead of using this literal 'Organisations' 7 times.(ı…‰
+fcsharpsquid:S1192H"DDefine a constant instead of using this literal 'AddressId' 6 times.(ö£ ãşÿÿÿÿ

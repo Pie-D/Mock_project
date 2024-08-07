@@ -1,0 +1,475 @@
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\obj\Debug\net8.0\NLayerApi.csproj.AssemblyReference.cache
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\obj\Debug\net8.0\NLayerApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\obj\Debug\net8.0\NLayerApi.AssemblyInfoInputs.cache
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\obj\Debug\net8.0\NLayerApi.AssemblyInfo.cs
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\obj\Debug\net8.0\NLayerApi.csproj.CoreCompileInputs.cache
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\obj\Debug\net8.0\NLayerApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\obj\Debug\net8.0\NLayerApi.sourcelink.json
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\appsettings.Development.json
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\appsettings.json
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\NLayerApi.exe
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\NLayerApi.deps.json
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\NLayerApi.runtimeconfig.json
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\NLayerApi.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\NLayerApi.pdb
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\AutoMapper.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\Azure.Core.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\Azure.Identity.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\BusinessLogic.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\Common.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\CommonWeb.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\DataAccess.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\BusinessLogic.pdb
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\Common.pdb
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\CommonWeb.pdb
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\DataAccess.pdb
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\obj\Debug\net8.0\NLayerApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\obj\Debug\net8.0\staticwebassets.development.json
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\obj\Debug\net8.0\staticwebassets\msbuild.NLayerApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\obj\Debug\net8.0\staticwebassets\msbuild.build.NLayerApi.props
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.NLayerApi.props
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NLayerApi.props
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\obj\Debug\net8.0\scopedcss\bundle\NLayerApi.styles.css
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\obj\Debug\net8.0\NLayerApi.csproj.CopyComplete
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\obj\Debug\net8.0\NLayerApi.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\obj\Debug\net8.0\refint\NLayerApi.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\obj\Debug\net8.0\NLayerApi.pdb
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\obj\Debug\net8.0\NLayerApi.genruntimeconfig.cache
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\obj\Debug\net8.0\ref\NLayerApi.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\Humanizer.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\System.CodeDom.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\System.Text.Json.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\appsettings.Development.json
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\appsettings.json
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\NLayerApi.exe
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\NLayerApi.deps.json
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\NLayerApi.runtimeconfig.json
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\NLayerApi.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\NLayerApi.pdb
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\AutoMapper.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\Azure.Core.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\Azure.Identity.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\Humanizer.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\Mono.TextTemplating.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\System.CodeDom.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\System.Composition.Convention.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\System.Composition.Hosting.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\System.Composition.Runtime.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\System.Drawing.Common.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\System.Memory.Data.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\System.Security.Permissions.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\System.Text.Json.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\BusinessLogic.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\Common.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\CommonWeb.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\DataAccess.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\BusinessLogic.pdb
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\Common.pdb
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\CommonWeb.pdb
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\bin\Debug\net8.0\DataAccess.pdb
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\obj\Debug\net8.0\NLayerApi.csproj.AssemblyReference.cache
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\obj\Debug\net8.0\NLayerApi.GeneratedMSBuildEditorConfig.editorconfig
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\obj\Debug\net8.0\NLayerApi.AssemblyInfoInputs.cache
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\obj\Debug\net8.0\NLayerApi.AssemblyInfo.cs
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\obj\Debug\net8.0\NLayerApi.csproj.CoreCompileInputs.cache
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\obj\Debug\net8.0\NLayerApi.MvcApplicationPartsAssemblyInfo.cs
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\obj\Debug\net8.0\NLayerApi.MvcApplicationPartsAssemblyInfo.cache
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\obj\Debug\net8.0\NLayerApi.sourcelink.json
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\obj\Debug\net8.0\staticwebassets.build.json
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\obj\Debug\net8.0\staticwebassets.development.json
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\obj\Debug\net8.0\staticwebassets\msbuild.NLayerApi.Microsoft.AspNetCore.StaticWebAssets.props
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\obj\Debug\net8.0\staticwebassets\msbuild.build.NLayerApi.props
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.NLayerApi.props
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NLayerApi.props
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\obj\Debug\net8.0\staticwebassets.pack.json
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\obj\Debug\net8.0\scopedcss\bundle\NLayerApi.styles.css
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\obj\Debug\net8.0\NLayerApi.csproj.Up2Date
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\obj\Debug\net8.0\NLayerApi.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\obj\Debug\net8.0\refint\NLayerApi.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\obj\Debug\net8.0\NLayerApi.pdb
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\obj\Debug\net8.0\NLayerApi.genruntimeconfig.cache
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\NLayerApi\obj\Debug\net8.0\ref\NLayerApi.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\NuGet.Common.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\NLayerApi\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\appsettings.Development.json
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\appsettings.json
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\NLayerApi.exe
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\NLayerApi.deps.json
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\NLayerApi.runtimeconfig.json
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\NLayerApi.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\NLayerApi.pdb
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\AutoMapper.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\Azure.Core.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\Azure.Identity.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\Humanizer.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\NuGet.Common.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\System.CodeDom.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\System.Text.Json.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\BusinessLogic.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\Common.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\CommonWeb.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\DataAccess.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\BusinessLogic.pdb
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\Common.pdb
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\CommonWeb.pdb
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\bin\Debug\net8.0\DataAccess.pdb
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\obj\Debug\net8.0\NLayerApi.csproj.AssemblyReference.cache
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\obj\Debug\net8.0\NLayerApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\obj\Debug\net8.0\NLayerApi.AssemblyInfoInputs.cache
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\obj\Debug\net8.0\NLayerApi.AssemblyInfo.cs
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\obj\Debug\net8.0\NLayerApi.csproj.CoreCompileInputs.cache
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\obj\Debug\net8.0\NLayerApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\obj\Debug\net8.0\NLayerApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\obj\Debug\net8.0\staticwebassets.development.json
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\obj\Debug\net8.0\staticwebassets\msbuild.NLayerApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\obj\Debug\net8.0\staticwebassets\msbuild.build.NLayerApi.props
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.NLayerApi.props
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NLayerApi.props
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\obj\Debug\net8.0\scopedcss\bundle\NLayerApi.styles.css
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\obj\Debug\net8.0\NLayerApi.csproj.Up2Date
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\obj\Debug\net8.0\NLayerApi.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\obj\Debug\net8.0\refint\NLayerApi.dll
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\obj\Debug\net8.0\NLayerApi.pdb
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\obj\Debug\net8.0\NLayerApi.genruntimeconfig.cache
+D:\Final_Team2_FPT-Long\NLayerApi\NLayerApi\obj\Debug\net8.0\ref\NLayerApi.dll

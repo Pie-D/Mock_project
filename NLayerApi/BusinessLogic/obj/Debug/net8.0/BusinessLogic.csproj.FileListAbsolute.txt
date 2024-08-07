@@ -1,0 +1,59 @@
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.csproj.AssemblyReference.cache
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.AssemblyInfoInputs.cache
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.AssemblyInfo.cs
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.sourcelink.json
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\BusinessLogic\bin\Debug\net8.0\BusinessLogic.deps.json
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\BusinessLogic\bin\Debug\net8.0\BusinessLogic.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\BusinessLogic\bin\Debug\net8.0\BusinessLogic.pdb
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\BusinessLogic\bin\Debug\net8.0\Common.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\BusinessLogic\bin\Debug\net8.0\CommonWeb.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\BusinessLogic\bin\Debug\net8.0\DataAccess.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\BusinessLogic\bin\Debug\net8.0\CommonWeb.pdb
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\BusinessLogic\bin\Debug\net8.0\Common.pdb
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\BusinessLogic\bin\Debug\net8.0\DataAccess.pdb
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.csproj.CopyComplete
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\BusinessLogic\obj\Debug\net8.0\refint\BusinessLogic.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.pdb
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\BusinessLogic\obj\Debug\net8.0\ref\BusinessLogic.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\BusinessLogic\bin\Debug\net8.0\BusinessLogic.deps.json
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\BusinessLogic\bin\Debug\net8.0\BusinessLogic.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\BusinessLogic\bin\Debug\net8.0\BusinessLogic.pdb
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\BusinessLogic\bin\Debug\net8.0\Common.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\BusinessLogic\bin\Debug\net8.0\CommonWeb.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\BusinessLogic\bin\Debug\net8.0\DataAccess.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\BusinessLogic\bin\Debug\net8.0\CommonWeb.pdb
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\BusinessLogic\bin\Debug\net8.0\Common.pdb
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\BusinessLogic\bin\Debug\net8.0\DataAccess.pdb
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.csproj.AssemblyReference.cache
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.AssemblyInfoInputs.cache
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.AssemblyInfo.cs
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.csproj.CoreCompileInputs.cache
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.sourcelink.json
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\BusinessLogic\obj\Debug\net8.0\Business.CF5D6E35.Up2Date
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\BusinessLogic\obj\Debug\net8.0\refint\BusinessLogic.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.pdb
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\BusinessLogic\obj\Debug\net8.0\ref\BusinessLogic.dll
+D:\Final_Team2_FPT-Long\NLayerApi\BusinessLogic\bin\Debug\net8.0\BusinessLogic.deps.json
+D:\Final_Team2_FPT-Long\NLayerApi\BusinessLogic\bin\Debug\net8.0\BusinessLogic.dll
+D:\Final_Team2_FPT-Long\NLayerApi\BusinessLogic\bin\Debug\net8.0\BusinessLogic.pdb
+D:\Final_Team2_FPT-Long\NLayerApi\BusinessLogic\bin\Debug\net8.0\Common.dll
+D:\Final_Team2_FPT-Long\NLayerApi\BusinessLogic\bin\Debug\net8.0\CommonWeb.dll
+D:\Final_Team2_FPT-Long\NLayerApi\BusinessLogic\bin\Debug\net8.0\DataAccess.dll
+D:\Final_Team2_FPT-Long\NLayerApi\BusinessLogic\bin\Debug\net8.0\CommonWeb.pdb
+D:\Final_Team2_FPT-Long\NLayerApi\BusinessLogic\bin\Debug\net8.0\Common.pdb
+D:\Final_Team2_FPT-Long\NLayerApi\BusinessLogic\bin\Debug\net8.0\DataAccess.pdb
+D:\Final_Team2_FPT-Long\NLayerApi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.csproj.AssemblyReference.cache
+D:\Final_Team2_FPT-Long\NLayerApi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Final_Team2_FPT-Long\NLayerApi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.AssemblyInfoInputs.cache
+D:\Final_Team2_FPT-Long\NLayerApi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.AssemblyInfo.cs
+D:\Final_Team2_FPT-Long\NLayerApi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Final_Team2_FPT-Long\NLayerApi\BusinessLogic\obj\Debug\net8.0\Business.CF5D6E35.Up2Date
+D:\Final_Team2_FPT-Long\NLayerApi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.dll
+D:\Final_Team2_FPT-Long\NLayerApi\BusinessLogic\obj\Debug\net8.0\refint\BusinessLogic.dll
+D:\Final_Team2_FPT-Long\NLayerApi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.pdb
+D:\Final_Team2_FPT-Long\NLayerApi\BusinessLogic\obj\Debug\net8.0\ref\BusinessLogic.dll
